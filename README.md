@@ -26,6 +26,7 @@ Before you start, make sure you have the following prerequisites:
 
 1. Java Development Kit (JDK)
 2. Gradle
+3. MongoDB
 
 ## Configuration
 
