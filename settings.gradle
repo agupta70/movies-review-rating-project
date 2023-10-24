@@ -1,0 +1,5 @@
+rootProject.name = 'movies-review-rating-project'
+include 'movies-review-service'
+include 'movies-info-service'
+include 'movies-service'
+
